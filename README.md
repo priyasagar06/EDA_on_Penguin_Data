@@ -1,1 +1,1 @@
-# EDA_on_Penguin_Data
+# EDA-on-Penguin-data
